@@ -2,36 +2,24 @@
 
 ## Abstract
 
-In the past decade, interactive maps have become one of the most popular ways to visualize and explore spatial data. Responding to the demand, mapping companies such as ESRI have developed a suite of tools for both creating and contextualizing interactive maps. While extremely helpful, some of the ESRI products are prohibitively expensive for many individuals. This workshop will use a combination of the public version of ESRI Online, which is free, and the free, open-source mapping software QGIS to build an interactive map. By the end of this workshop you will know the basics for making an interactive map that can be shared and embedded in a website. No mapping experience is necessary. 
+Mapping is a powerful way to analyze, visualize, and explore spatial data. A Geographic Information System (GIS) is a mapping technology that allows users to analyze spatial data and produce cartographic visualizations. This workshop will teach you the foundational concepts of GIS that are applicable across platforms. No prior experience necessary. 
 
 ## Learning Objectives
 
-- Become familiar with fundamental mapping concepts, such as how spatial data is organized and displayed. 
-- Distinguish among two different forms of spatial data—vector data and raster data.
-- Consider some of the core ethical dilemmas of mapmaking.
-- Understand the difference between the most popular mapping software. 
-- Import and export data between different mapping tools. 
-- Combine data through performing a "spatial join." 
-- Turn a spreadsheet with location data into a map layer (the name of this process is "geocoding").
-Customize an interactive map.
-- Add pop-ups to your map.
-- Share your interactive map as a URL or embed it in a website. 
+ - Become familiar with the uses of cartography and spatial analysis
+ - Identify fundamental mapping components
+ - Distinguish between different forms of spatial data
+ - Recognize some of the core ethical considerations of mapmaking.
+ - Practice formulating spatial research questions
 
 
 ## Estimated time
 
-4 hours
+45 minutes
 
 ## Prerequisites
 
-- [Data Literacies](https://github.com/DHRI-Curriculum/data-literacies) (recommended) In order to have a better understanding of the data formats we handle in this workshop, if you don't already have a foundational understanding of data formats and types, you can start by walking through our Data Literacies workshop.
-- [Install QGIS](https://github.com/DHRI-Curriculum/install/blob/main/sections/qgis.md) (required) To complete this workshop you will need to install QGIS. Step by step installation instructions are available here.
-- [Create an ESRI Online Public account](https://doc.arcgis.com/en/arcgis-online/get-started/create-account.htm) (required) You will need to create a free account for ESRI Online to participate in this workshop.
-
-## Datasets
-
-- [Download the dataset we will work with by clicking here](https://github.com/DHRI-Curriculum/mapping/tree/v2.0/dataset).
-- [Look at a version of the map we are going to make in this workshop](http://arcg.is/1KyC9O).
+- [Data Literacies](https://github.com/DHRI-Curriculum/data-literacies) (recommended) In order to have a better understanding of the data formats we discuss in this workshop, if you don't already have a foundational understanding of data formats and types, you can start by walking through our Data Literacies workshop.
 
 ## Contexts
 
@@ -61,7 +49,7 @@ Starting from figuring out how to represent a 3D reality on a 2D plane, there ar
 
 ## Acknowledgements
 
-- Current Author: [Olivia Ildefonso](https://oildefon.medium.com/)
-- Past contributing author: [Javier Otero Peña](https://enviropsych.org/students/javier-otero-pena/)
+- Current Author: Anna Schlenz
+- Past contributing author: [Javier Otero Peña](https://enviropsych.org/students/javier-otero-pena/) and [Olivia Ildefonso](https://oildefon.medium.com/)
 - Editor: [Kalle Westerling](https://github.com/kallewesterling)
 - Editor: [Dr. Lisa Rhody](https://github.com/lmrhody)
