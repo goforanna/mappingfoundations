@@ -11,29 +11,16 @@ In this workshop, you will:
 
 ---
 
-<p align="center">This workshop is estimated to take you 45 minutes to complete.</p><p align="center"><a href="sections/01-introduction-to-mapping.md">Get Started</a> →</p>
+<p align="center">This workshop is estimated to take you 45 minutes to complete.</p><p align="center"><a href="sections/Lesson1-PowerofWhere.md">Get Started</a> →</p>
 
 ---
 
 ## Lessons
 
-1. [Introduction to Mapping](sections/01-introduction-to-mapping.md)
-2. [Mapping Tools](sections/02-mapping-tools.md)
-3. [Ethics of Mapping](sections/03-ethics-of-mapping.md)
-4. [Ethics of Mapping Continued: Questions to Consider](sections/04-ethics-of-mapping-continued-questions-to-consider.md)
-5. [Making an Interactive Map: Introduction](sections/05-making-an-interactive-map-introduction.md)
-6. [Combining Data Through a Spatial Join](sections/06-combining-data-through-a-spatial-join.md)
-7. [Performing a Spatial Join](sections/07-performing-a-spatial-join.md)
-8. [Exporting Data from QGIS](sections/08-exporting-data-from-qgis.md)
-9. [Importing Data to ArcGIS Online](sections/09-importing-data-to-arcgis-online.md)
-10. [Changing the Map Style](sections/10-changing-the-map-style.md)
-11. [Configuring the Pop-up](sections/11-configuring-the-pop-up.md)
-12. [Importing CSV file and Geocoding Addresses](sections/12-importing-csv-file-and-geocoding-addresses.md)
-13. [Changing the Style of the Points Layer](sections/13-changing-the-style-of-the-points-layer.md)
-14. [Formatting the Pop-ups for the Protest Locations](sections/14-formatting-the-pop-ups-for-the-protest-locations.md)
-15. [Formatting the Legend](sections/15-formatting-the-legend.md)
-16. [Saving and Sharing Your Map](sections/16-saving-and-sharing-your-map.md)
-
+1. [The Power of Where](sections/Lesson1-PowerofWhere.md)
+2. [Components of a Map](sections/Lesson2-ComponentsofMapping.md)
+3. ['The Map is Not the Territory': Distortions, Decisions, and Ethics](sections/Lesson3-DistortionsEthics.md)
+   
 ---
 
 ## Before you get started
@@ -41,7 +28,6 @@ In this workshop, you will:
 If you do not have experience or basic knowledge of the following workshops, you may want to look into those before you start with Introduction to Mapping:
 
 - [Data Literacies](https://github.com/DHRI-Curriculum/data-literacies) (recommended) In order to have a better understanding of the data formats we handle in this workshop, if you don't already have a foundational understanding of data formats and types, you can start by walking through our Data Literacies workshop.
-- [Install QGIS](https://github.com/DHRI-Curriculum/install/blob/main/sections/qgis.md) (required) To complete this workshop you will need to install QGIS. Step by step installation instructions are available here.
 
 ### Ethical Considerations
 
@@ -76,7 +62,7 @@ You may also want to check out a couple of projects that use the skills discusse
 
 ---
 
-<p align="center"><a href="sections/01-introduction-to-mapping.md">Get Started</a> →</p>
+<p align="center"><a href="sections/Lesson1-PowerofWhere.md">Get Started</a> →</p>
 
 ---
 
@@ -84,9 +70,8 @@ You may also want to check out a couple of projects that use the skills discusse
 
 This workshop is the result of a collaborative effort of a team of people, mostly involved presently or in the past, with the Graduate Center's Digital Initiatives. If you want to see statistics for contributions to this workshop, you can do so [here](https://www.github.com/DHRI-Curriculum/mapping/graphs/contributors). This is a list of all the contributors:
 
-- Current Author: [Olivia Ildefonso](https://oildefon.medium.com/)
-- Past contributing author: [Javier Otero Peña](https://enviropsych.org/students/javier-otero-pena/)
-- Editor: [Kalle Westerling](https://github.com/kallewesterling)
+- Current Author: Anna Schlenz
+- Past contributing authors: [Javier Otero Peña](https://enviropsych.org/students/javier-otero-pena/) and [Olivia Ildefonso](https://oildefon.medium.com/)
 - Editor: [Dr. Lisa Rhody](https://github.com/lmrhody)
 
 ---
