@@ -33,3 +33,6 @@ Which of the following is GIS a useful tool for? (check all that apply)
 - Creating a map of a fictional place 
 - Identifying popular public beaches*
 </Quiz>
+
+---
+↻ [Start](../README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Components of Mapping](02-components-of-mapping.md) →
